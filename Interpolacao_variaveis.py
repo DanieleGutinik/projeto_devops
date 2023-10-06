@@ -1,6 +1,6 @@
-nome = "XXXXXXXXXXXXX"
-idade = xx
-profissao = "xxxxxxxxxxxx" 
+nome = "Daniele Gutinik"
+idade = 41
+profissao = "Professora" 
 linguagem = "Python"
 
 saldo = 10245.435
@@ -22,11 +22,6 @@ print("Nome:{0} Idade:{1} Nome: {1} {1}".format(idade, nome))
 print("Nome: {nome} Idade:{idade}".format(nome=nome, idade=idade))
 
 
-# Criar um reposito client na sua maquina;
-# Colocar o codigo fonte disponibilizado na aula;
-# Em seguida subir para o Guthub;
-# Onde este o XXX colocar seu dados pessoais, no fonte que esta sua maquina;
-# Aguarde a segunda aula;
 
 
 
